@@ -1,0 +1,50 @@
+# Build results
+bin/
+obj/
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Auto-generated files
+*.sln.ide
+.idea/
+
+# Rider specific files
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Database files
+*.mdf
+*.ldf
+*.sqlite
+*.s3db
+PeopleDatabase.db
+
+# Logs
+*.log
+
+# npm
+node_modules/
+
+# Swagger generated files
+swagger/
+
+# Config and secret files
+appsettings*.json
+
+# Resharper
+_ReSharper*/
