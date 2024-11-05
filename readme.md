@@ -1,7 +1,4 @@
 # PeopleApiCQRS
 
-This project is a simple API built with .NET 8 to demonstrate the basic principles of Command Query Responsibility Segregation (CQRS). The goal is to show how to separate commands (write operations) from queries (read operations) in a way that makes the system more modular, maintainable, and scalable.
+Este projeto é uma API simples criada com .NET 8 para demonstrar os princípios básicos do Command Query Responsibility Segregation (CQRS). O objetivo é mostrar como separar comandos (operações de gravação) de consultas (operações de leitura) de uma forma que torne o sistema mais modular, sustentável e escalável.
 
-## Overview
-
-The **PeopleApiCQRS** project aims to demonstrate how CQRS can be applied in a .NET API. In this project, commands are separated from queries to follow the CQRS pattern, which allows independent handling of write and read operations. This separation can improve scalability and flexibility, particularly in complex applications.
